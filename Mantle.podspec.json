@@ -7,6 +7,10 @@
   "authors": {
     "Github": "support@github.com"
   },
+    "source": {
+    "git": "https://github.com/pj4533/Mantle.git",
+    "branch": "hackfix"
+  },
   "platforms": {
     "ios": "5.0",
     "osx": "10.7",
